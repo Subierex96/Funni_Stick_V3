@@ -12,3 +12,8 @@ For this to work youll need 2 things saved on the Rubber ducky
 Users and Password(hashes) will be saved back onto the stick named after the Username of the machine it was run on for easy identification.(slick right?)
 It is recommended that you pull out the Ducky after everything is done asap because windows defender might delete your copy of mimikatz.exe
 I tried to be fancy and include a powershell command that automatically ejects the drive. But when i tested it on another USB, the ejection did work, but now i cant plug them back in. Ive bricked 3 USB Sticks this way. Feel free to yell a soloution my way.
+
+
+
+
+have you tried to change the attackmode parameter to off for ejecting the ducky when its completed its task?
